@@ -1,2 +1,3 @@
 # Camouflage-test-warehouse
-A test
+It's just a test
+It's empty
